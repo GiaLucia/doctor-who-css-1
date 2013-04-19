@@ -3,7 +3,10 @@ body { background: url(images/star-background.jpg); margin: 0px; padding: 0px; }
 .wrapper { background: #A69F8A; width: 950px; border-top: 10px solid #F2F2F2; border-right: 2px solid #F2F2F2; border-bottom: 10px solid #F2F2F2; border-left: 2px solid #F2F2F2; margin: 10px auto; }
 
 .navigation { margin: 20px 0px 20px 10px; padding: 0px; }
+.navigation li a:hover { color: #F2F2F2; background: #222940; }
+
 
 .navigation li { display: inline; }
 
-.navigation li a { background: #F2F2F2; padding: 10px 30px; margin-right: 40px; border: 2px solid #222940; color: #222940; text-decoration: none; }
+.navigation li a { background: #F2F2F2;
+padding: 10px 30px; margin-right: 40px; border: 2px solid #222940; color: #222940; text-decoration: none; }
